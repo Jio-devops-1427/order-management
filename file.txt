@@ -2,3 +2,4 @@
 hi
 hello feature
 
+new feature2 is released
